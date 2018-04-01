@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest2017</string>
+    <string name="navigate_to_secondary_activity">NAVIGATE TO SECONDARY ACTIVITY</string>
+    <string name="press_me">PRESS ME!</string>
+    <string name="press_me_too">PRESS ME, TOO!</string>
+    <string name="zero">0</string>
+
+    <string name="title_activity_practical_test2017_secondary">PracticalTest2017Secondary</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
